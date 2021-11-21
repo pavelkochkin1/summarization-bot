@@ -130,4 +130,5 @@ dmypy.json
 
 *.ckpt
 
+*.DS_Store
 
